@@ -2,7 +2,7 @@ six>=1.6.0
 Flask
 pymongo
 xlwt
-paramiko==1.15.3
+paramiko==2.0.9
 packaging
 appdirs
 gunicorn
