@@ -6,3 +6,4 @@ paramiko==1.15.3
 packaging
 appdirs
 gunicorn
+dnspython>=2.6.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
