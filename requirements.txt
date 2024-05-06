@@ -6,3 +6,4 @@ paramiko==1.15.3
 packaging
 appdirs
 gunicorn
+werkzeug>=3.0.3 # not directly required, pinned by Snyk to avoid a vulnerability
