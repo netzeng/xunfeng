@@ -6,3 +6,4 @@ paramiko==1.15.3
 packaging
 appdirs
 gunicorn
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
